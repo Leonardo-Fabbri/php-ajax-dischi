@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ header {
+    width: 100%;
+    height: 10vh;
+    background-color: black;
+    padding: 12px;
+    padding-left: 30px;
+}
+#logo img {
+    width: 50px;
+}
+.contenitore_dischi {
+    /* background-color: #117a37; */
+    width: 100%;
+    height: calc(100vh - 10vh);
+}
+
